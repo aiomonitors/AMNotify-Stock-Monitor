@@ -1,7 +1,8 @@
 # AMNotify-Stock-Monitor
 Monitors the AMNotify site for restocks
 
-[@PerceptionIO Twitter](https://twitter.com/PerceptionIO)\n
+[@PerceptionIO Twitter](https://twitter.com/PerceptionIO)
+     
 [@navrxo](https://twitter.com/navrxo)
 
 Requirements:
